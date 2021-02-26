@@ -22,6 +22,6 @@ collections:
       - {label: "Image", name: "image", widget: "image"} 
       - {label: "BigImage", name: "bigimage", widget: "image"}
       - {label: "Type", name: "type", widget: "select" , options: ["featured", "regular"]}
-      - {label: "Categories", name: "categories", widget: "select"}
-      - {label: "Tags", name: "tags", widget: "select"}   
+      - {label: "Categories", name: "categories", widget: "string"}
+      - {label: "Tags", name: "tags", widget: "string"}   
       - {label: "Body", name: "body", widget: "markdown"}
