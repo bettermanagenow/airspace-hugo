@@ -1,7 +1,7 @@
 ---
 title: "How to Make Black Shoes?"
 date: 2021-02-24T11:07:10+06:00
-author: John Doe
+author: Avadhoot Dandekar
 image : "images/blog/blog-post-6.jpg"
 bg_image: "images/featue-bg.jpg"
 categories: ["Company News"]

@@ -148,7 +148,7 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 # copyright
-copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved"
+copyright = "Copyright &copy; 2020 [Better Manage Now](https://www.bettermanagenow.com/) All Rights Reserved"
 
 
 ######################### english navigation #############################
@@ -319,6 +319,4 @@ name = "Contact"
 URL = "contact"
 weight = 6
 
-[[module.mounts]]
-    source = "node_modules/flexsearch"
-    target = "assets/js/vendor/flexsearch"
+
