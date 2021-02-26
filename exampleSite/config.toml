@@ -318,3 +318,7 @@ weight = 5
 name = "Contact"
 URL = "contact"
 weight = 6
+
+[[module.mounts]]
+    source = "node_modules/flexsearch"
+    target = "assets/js/vendor/flexsearch"
