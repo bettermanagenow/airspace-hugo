@@ -24,6 +24,12 @@
                 {{ if ne $index 0 }}, {{ end }}<a href="{{ `tags/` | relLangURL }}{{ . | lower }}">{{ . | humanize }}</a>
 								{{ end }}
               </li>
+			  <li><i class="ion-clock"></i>
+				{{ .ReadingTime}} Minutes
+			  </li>
+			  <li><i class="ion-clipboard"></i>
+				{{ .WordCount}} Words
+			  </li>
             </ul>
 					</div>
 					<div class="post-thumb">
